@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Basic-Java_Practice-Set.iml" filepath="$PROJECT_DIR$/.idea/Basic-Java_Practice-Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternsQue/PatternsQue.iml" filepath="$PROJECT_DIR$/PatternsQue/PatternsQue.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-01/practice-01.iml" filepath="$PROJECT_DIR$/practice-01/practice-01.iml" />
     </modules>
   </component>
